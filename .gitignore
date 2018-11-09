@@ -1,2 +1,3 @@
 .vscode/
 src/debug
+src/geometry/debug
